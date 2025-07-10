@@ -2,7 +2,7 @@
 Simple VR Drone Test Practice Site at CJCU, Tanan, Taiwan
 
 ## How to install: 
-~~~~
+~~~
 C:\Users\XXX\Documents\PhoenixRC\Downloaded\Sites\Official
 ~~~
 
